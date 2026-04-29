@@ -50,7 +50,7 @@ elif opcao == "interesses":
         st.image("https://estudenapuc.pucpr.br/pos-graduacao/wp-content/uploads/2024/11/MBA-em-Marketing-Digital-Tecnologia-e-IA.jpg")
         st.write("### joão adora se aventurar em áreas como:")
         st.write("## marketing estratégico")
-        st.image("https://media.licdn.com/dms/image/v2/D4D12AQEfXJMbNh6g3A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1665589480826?e=2147483647&v=beta&t=vsk-vvtmGYGenfW-2XmKAh4DJ2SZPIwj2yVhfv3hnHs"
+        st.image("https://media.licdn.com/dms/image/v2/D4D12AQEfXJMbNh6g3A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1665589480826?e=2147483647&v=beta&t=vsk-vvtmGYGenfW-2XmKAh4DJ2SZPIwj2yVhfv3hnHs.jpg")
         st.write("## branding")
         st.image("https://registrodemarca.arenamarcas.com.br/wp-content/uploads/2022/01/Qual-E-o-conceito-de-Branding.jpg"
         st.write("## análise de dados")

@@ -33,6 +33,7 @@ elif opcao == "interesses":
     opcao = st.selectbox(
     "interesses especificados:",
     ["selecione uma opção", "cinema", "marketing e tecnologia", "viagens"]
+)
         if opcao == "cinema"
             st.title("cinema")
             st.image("https://images.adsttc.com/media/images/58d5/3a58/e58e/ce48/a700/003f/large_jpg/002.jpg?1490369108") 

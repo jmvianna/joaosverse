@@ -34,13 +34,13 @@ elif opcao == "interesses":
     "interesses especificados:",
     ["selecione uma opção", "cinema", "marketing e tecnologia", "viagens"]
 )
-        if opcao == "cinema":
-            st.title("cinema")
-            st.image("https://images.adsttc.com/media/images/58d5/3a58/e58e/ce48/a700/003f/large_jpg/002.jpg?1490369108") 
-            st.write("joão é apaixonado por cinema, alguns de seus filmes favoritos são:")
-            st.write("# star wars: the empire strikes back, 1980")
-            st.image("https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_.jpg")
+    if opcao == "cinema":
+        st.title("cinema")
+        st.image("https://images.adsttc.com/media/images/58d5/3a58/e58e/ce48/a700/003f/large_jpg/002.jpg?1490369108") 
+        st.write("joão é apaixonado por cinema, alguns de seus filmes favoritos são:")
+        st.write("# star wars: the empire strikes back, 1980")
+        st.image("https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_.jpg")
     
-       if opcao == "marketing e tecnologia":
-           st.title("marketing e tecnologia")
-           st.image("https://images.adsttc.com/media/images/58d5/3a58/e58e/ce48/a700/003f/large_jpg/002.jpg?1490369108") 
+    if opcao == "marketing e tecnologia":
+       st.title("marketing e tecnologia")
+       st.image("https://images.adsttc.com/media/images/58d5/3a58/e58e/ce48/a700/003f/large_jpg/002.jpg?1490369108") 

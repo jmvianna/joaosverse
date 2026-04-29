@@ -24,4 +24,4 @@ if opcao == "interesses":
 
     st.write("viagens")
 
-    st.image("https://palacepraia.com.br/wp-content/uploads/2021/10/viajar-de-aviao.jpeg")")
+    st.image("https://palacepraia.com.br/wp-content/uploads/2021/10/viajar-de-aviao.jpeg")

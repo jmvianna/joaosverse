@@ -10,7 +10,7 @@ st.markdown("""
 # 🌎 joaosverse
 ### welcome to joao's universe
 
-welcome to joao's universe
+aqui você vai encontrar tudo sobre joão vianna
 """)
 
 st.image(

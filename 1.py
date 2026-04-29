@@ -1,9 +1,24 @@
 import streamlit as st
 
-st.title("joaosverse version 1")
+st.set_page_config(
+    page_title="joaosverse",
+    page_icon="🌎",
+    layout="centered"
+)
 
-st.image("https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nationalgeographic_2808031_bx.webp?w=760&h=434")
-    
+st.markdown("""
+# 🌎 joaosverse
+### welcome to joao's universe
+
+welcome to joao's universe
+""")
+
+st.image(
+    "https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nationalgeographic_2808031_bx.webp?w=760&h=434",
+    use_container_width=True
+)
+
+st.divider()
 opcao = st.selectbox("quem é joão vianna?:", ["definição", "interesses"])
 
 if opcao == "definição":

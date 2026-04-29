@@ -52,17 +52,17 @@ elif opcao == "interesses":
         st.write("## marketing estratégico")
         st.image("https://media.licdn.com/dms/image/v2/D4D12AQEfXJMbNh6g3A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1665589480826?e=2147483647&v=beta&t=vsk-vvtmGYGenfW-2XmKAh4DJ2SZPIwj2yVhfv3hnHs.jpg")
         st.write("## branding")
-        st.image("https://registrodemarca.arenamarcas.com.br/wp-content/uploads/2022/01/Qual-E-o-conceito-de-Branding.jpg"
+        st.image("https://registrodemarca.arenamarcas.com.br/wp-content/uploads/2022/01/Qual-E-o-conceito-de-Branding.jpg")
         st.write("## análise de dados")
-        st.image("https://www.comececomopedireito.com.br/blog/wp-content/uploads/2024/02/analise-de-dados-com-power-bi.jpg"
+        st.image("https://www.comececomopedireito.com.br/blog/wp-content/uploads/2024/02/analise-de-dados-com-power-bi.jpg")
 
 if opcao == "viagens":
         st.title("viagens")
         st.image("https://palacepraia.com.br/wp-content/uploads/2021/10/viajar-de-aviao.jpeg")
         st.write("### joão ama viajar, esses são alguns dos lugares mais legais que ele já foi:")
         st.write("## cusco, peru")
-        st.image("https://static.historiadomundo.com.br/2023/11/vista-da-paisagem-de-machu-picchu-cidade-pre-colombiana-construida-pelos-incas.jpg"
+        st.image("https://static.historiadomundo.com.br/2023/11/vista-da-paisagem-de-machu-picchu-cidade-pre-colombiana-construida-pelos-incas.jpg")
         st.write("## ephesus, turquia")
-        st.image("https://www.royalcaribbean.com/media-assets/pmc/content/dam/excalibur/digital-destinations/port-destinations/ports-of-call/ephesus-kusadasi-turkey-adb/stock-photo-ADB-ephesus-kusadasi-turkey-port-celsus-library-sunset-167371061.jpg?w=1920"
+        st.image("https://www.royalcaribbean.com/media-assets/pmc/content/dam/excalibur/digital-destinations/port-destinations/ports-of-call/ephesus-kusadasi-turkey-adb/stock-photo-ADB-ephesus-kusadasi-turkey-port-celsus-library-sunset-167371061.jpg?w=1920")
         st.write("## san pedro de atacama, chile")
-        st.image("https://uploads.dicaschile.com.br/sites/13/2019/02/licancabur-vulcao-montanha-chile.jpg"
+        st.image("https://uploads.dicaschile.com.br/sites/13/2019/02/licancabur-vulcao-montanha-chile.jpg")
